@@ -1,15 +1,12 @@
 .DS_Store
 .cache
 
-# Log files
-Logs
+log/
 
-# tmp files
 *.swn
 *.swo
 *.swp
 *~
 
-# python 
 __pycache__/
 *.pyc
