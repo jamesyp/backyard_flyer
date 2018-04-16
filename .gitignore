@@ -2,6 +2,7 @@
 .cache
 
 log/
+.vscode/
 
 *.swn
 *.swo
